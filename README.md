@@ -1,2 +1,3 @@
-# activation-pretraining-readers
-Preliminary results with discrete activation prediction pretraining for activation interpretation
+# Activation prediction pretraining
+
+Preliminary results with discrete activation-prediction pretraining for improved activation interpretation and monitoring.
