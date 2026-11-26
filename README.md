@@ -24,8 +24,6 @@ One of the core approaches that we use as a standard linear baseline is a logit 
 
 ## References
 
-## References
-
 - Bauer, J., De Schamphelaere, C., Karvonen, A., Luick, N., & Nanda, N. (2026). [Building Better Activation Oracles](https://arxiv.org/abs/2606.02609). arXiv:2606.02609; ICML 2026 Workshop on Mechanistic Interpretability.
 - Belrose, N., Ostrovsky, I., McKinney, L., Furman, Z., Smith, L., Halawi, D., Biderman, S., & Steinhardt, J. (2023). [Eliciting Latent Predictions from Transformers with the Tuned Lens](https://arxiv.org/abs/2303.08112). arXiv:2303.08112.
 - Choi, D., Huang, V., Mudide, A., Zhou, W., & Steinhardt, J. (2026). [Scaling Activation Oracles to Trillion-Parameter Models](https://transluce.org/scaling-activation-oracles). Transluce, August 2026.
