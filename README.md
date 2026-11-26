@@ -24,17 +24,19 @@ One of the core approaches that we use as a standard linear baseline is a logit 
 
 ## References
 
-- Bauer, J., De Schamphelaere, C., Karvonen, A., Luick, N., & Nanda, N. (2026). [Building Better Activation Oracles](https://arxiv.org/abs/2606.02609). ICML 2026.
+## References
+
+- Bauer, J., De Schamphelaere, C., Karvonen, A., Luick, N., & Nanda, N. (2026). [Building Better Activation Oracles](https://arxiv.org/abs/2606.02609). arXiv:2606.02609; ICML 2026 Workshop on Mechanistic Interpretability.
 - Belrose, N., Ostrovsky, I., McKinney, L., Furman, Z., Smith, L., Halawi, D., Biderman, S., & Steinhardt, J. (2023). [Eliciting Latent Predictions from Transformers with the Tuned Lens](https://arxiv.org/abs/2303.08112). arXiv:2303.08112.
 - Choi, D., Huang, V., Mudide, A., Zhou, W., & Steinhardt, J. (2026). [Scaling Activation Oracles to Trillion-Parameter Models](https://transluce.org/scaling-activation-oracles). Transluce, August 2026.
-- Cywiński, B., Ryd, E., Wang, R., Rajamanoharan, S., Nanda, N., Conmy, A., & Marks, S. (2025). [Eliciting Secret Knowledge from Language Models](https://arxiv.org/abs/2510.01070). arXiv:2510.01070.
+- Cywiński, B., Ryd, E., Wang, R., Rajamanoharan, S., Nanda, N., Conmy, A., & Marks, S. (2025). [Eliciting Secret Knowledge from Language Models](https://arxiv.org/abs/2510.01070). NeurIPS 2026.
 - Fraser-Taliente, K., et al. (2026). [Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations](https://transformer-circuits.pub/2026/nla/). Transformer Circuits, May 2026.
-- He, T., & Jiralerspong, T. (2026). [Context–Answer Metamodels: Forecasting LLM Activations Before the First Answer Token](https://arxiv.org/abs/2611.06837). NeurIPS 2026.
-- Huang, V., Choi, D., Johnson, D. D., Schwettmann, S., & Steinhardt, J. (2025). [Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants](https://arxiv.org/abs/2512.15712). arXiv:2512.15712.
-- Karvonen, A., Chua, J., Dumas, C., Fraser-Taliente, K., Kantamneni, S., Minder, J., Ong, E., Sen Sharma, A., Wen, D., Evans, O., & Marks, S. (2025). [Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers](https://arxiv.org/abs/2512.15674). arXiv:2512.15674.
+- He, T., & Jiralerspong, T. (2026). [Context–Answer Metamodels: Forecasting LLM Activations Before the First Answer Token](https://arxiv.org/abs/2611.06837). NeurIPS 2026 Workshop on Neural Network Artifacts as a New Data Modality (NeuralArtifacts).
+- Huang, V., Choi, D., Johnson, D. D., Schwettmann, S., & Steinhardt, J. (2025). [Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants](https://arxiv.org/abs/2512.15712). NeurIPS 2026.
+- Karvonen, A., Chua, J., Dumas, C., Fraser-Taliente, K., Kantamneni, S., Minder, J., Ong, E., Sen Sharma, A., Wen, D., Evans, O., & Marks, S. (2025). [Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers](https://arxiv.org/abs/2512.15674). ICML 2026.
 - Li, Y., Wei, F., Zhang, C., & Zhang, H. (2024). [EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty](https://proceedings.mlr.press/v235/li24bt.html). ICML 2024.
-- Luo, Feng, Darrell, Radford, & Steinhardt (2026). [Learning a Generative Meta-Model of LLM Activations](https://arxiv.org/abs/2602.06964). ICML 2026.
+- Luo, G., Feng, J., Darrell, T., Radford, A., & Steinhardt, J. (2026). [Learning a Generative Meta-Model of LLM Activations](https://arxiv.org/abs/2602.06964). ICML 2026.
 - nostalgebraist (2020). [Interpreting GPT: the logit lens](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens). LessWrong.
-- Pal, K., Sun, J., Yuan, A., Wallace, B. C., & Bau, D. (2023). [Future Lens: Anticipating Subsequent Tokens from a Single Hidden State](https://arxiv.org/abs/2311.04897). arXiv:2311.04897.
+- Pal, K., Sun, J., Yuan, A., Wallace, B. C., & Bau, D. (2023). [Future Lens: Anticipating Subsequent Tokens from a Single Hidden State](https://arxiv.org/abs/2311.04897). CoNLL 2023.
 - Pan, A., Chen, L., & Steinhardt, J. (2024). [LatentQA: Teaching LLMs to Decode Activations Into Natural Language](https://arxiv.org/abs/2412.08686). ICLR 2026.
 - Steinhardt, J. (2026). [Foundation Models for Oversight](https://transluce.org/foundation-models-for-oversight). Transluce, July 2026.
